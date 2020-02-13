@@ -1,0 +1,4 @@
+Parece que el de tensores es mucho más rápido que el de tensor_networks al inicializar, especialmente para circuitos pequeños:
+ hay que hacer la llamada a las funciones
+
+Los tiempos son comparables para ambos casos.
